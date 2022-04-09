@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joaoV9
-- 👀 I’m interested in  Unity(C++,JS)
+- 👀 I’m interested in Unity(C++,JV,C#)
 - 🌱 I’m currently learning  JS, HTML, Python, PHP, entre outros...
 - 💞️ I’m looking to collaborate on  correção de scripts para determinados programas, sites, entre outros
 - 📫 How to reach me : jomiem2014@gmail.com, (69)99208-9402
